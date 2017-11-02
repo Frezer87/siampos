@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/siamandroidpos.iml" filepath="$PROJECT_DIR$/siamandroidpos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/siamandroidpos-master-5c496550d1775b6c7762d619cecaa75482d1e25e.iml" filepath="$PROJECT_DIR$/siamandroidpos-master-5c496550d1775b6c7762d619cecaa75482d1e25e.iml" />
+    </modules>
+  </component>
+</project>
